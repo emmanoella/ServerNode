@@ -1,4 +1,4 @@
-//require fait un appel à une bibliothèque de node.js. il existe plusieurs bibliothequzes qui peuvent etre telecharger avec NPM ,le gestionnaire de paquet Node.js
+/*require fait un appel à une bibliothèque de node.js. il existe plusieurs bibliothequzes qui peuvent etre telecharger avec NPM ,le gestionnaire de paquet Node.js
 var http= require ('http');
 var server= http.createServer(function(req, res){
 //renvoyer le code 200 dans l'entete de la reponse qui signifie aunavigateur "OK" tout va bien
