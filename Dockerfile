@@ -7,6 +7,6 @@ RUN apt-get install -yq  npm
 RUN npm install express --save
 RUN npm install cassandra-driver --save
 RUN apt-get install -yq openssh-server
-COPY open.js /home/
+//COPY open.js /home/
 EXPOSE 80 8080 11900
 
